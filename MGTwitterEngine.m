@@ -14,7 +14,7 @@
 
 #ifndef USE_LIBXML
 //  if you wish to use LibXML, add USE_LIBXML=1 to "Precompiler Macros" in Project Info for all targets
-#   define USE_LIBXML 0
+#   define USE_LIBXML 1
 #endif
 
 #if YAJL_AVAILABLE
