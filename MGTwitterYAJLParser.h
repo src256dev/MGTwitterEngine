@@ -42,7 +42,7 @@
 	responseType:(MGTwitterResponseType)respType
 	URL:(NSURL *)URL
 	deliveryOptions:(MGTwitterEngineDeliveryOptions)deliveryOptions;
-
+- (void)clearCurrentKey;
 // subclass utilities
 - (void)addValue:(id)value forKey:(NSString *)key;
 - (void)addValue:(id)value forKey:(NSString *)key;
