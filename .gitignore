@@ -1,5 +1,6 @@
 *.pbxuser
 *.perspectivev3
+.svn
 build
 yajl
 OAuthConsumer
